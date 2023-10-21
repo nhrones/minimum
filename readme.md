@@ -1,6 +1,6 @@
 # Minimum Deploy Static App
 
-This repo represents a bare minimum Static app server for Deploy.
+This repo represents a bare minimum Static app server for Deno Deploy.
 
 The server is only 8 lines of Deno code.
 
