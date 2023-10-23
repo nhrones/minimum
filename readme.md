@@ -18,3 +18,5 @@ To install a local copy as a dev-server named **mini**
 ```
 deno install -n mini -A --unstable https://raw.githubusercontent.com/nhrones/minimum/main/server.ts
 ```
+   
+After the above install, just enter **mini** in any project folder that has an index.html file.
