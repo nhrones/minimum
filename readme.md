@@ -12,7 +12,8 @@ deno run -A --unstable https://raw.githubusercontent.com/nhrones/minimum/main/se
 ```
 This will launch your browser with the index.html served.
 
-I recommend using Deno install to have a local dev-tool.   
+I recommend using Deno install to have a local dev-tool.    
+      
 To install a local copy as a dev-server named **mini**   
 ```
 deno install -n mini -A --unstable https://raw.githubusercontent.com/nhrones/minimum/main/server.ts
