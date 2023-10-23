@@ -6,9 +6,8 @@ It serves any index.html in the root, and all subsequent file requests.
 
 ## Note: This does not contain any routing capability.
 
-Index.html -> styles.css -> app.js
 
-Try it! In any folder with an index.html file, enter the following:  
+Try it! -> In any folder with an index.html file, enter the following:  
 ```
 deno run -A --unstable https://raw.githubusercontent.com/nhrones/minimum/main/server.ts
 ```
