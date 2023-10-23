@@ -1,8 +1,10 @@
-# Minimum Deploy Static App
+# Minimum Static App Server
 
-This repo represents a bare minimum Static app server for Deno Deploy.
+This repo represents a bare minimum Static app server.
 
-It serves any index.html in the root, and all files it requires.
+It serves any index.html in the root, and all subsequent file requests.
+
+## Note: This does not contain any routing capability.
 
 Index.html -> styles.css -> app.js
 
